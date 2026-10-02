@@ -4,6 +4,7 @@
 
 - Nama: Anastasya Putri Kirana
 - NIM: 2225250041
+- Kelas: 3A
 - Mata Kuliah: Algoritma dan Pemrograman
 
 ## Tujuan
@@ -89,7 +90,7 @@ Kemudian digunakan `for` sebanyak `n` kali untuk menghasilkan setiap suku deret 
 | Input | Hasil |
 |---|---|
 | 4 | Tabel perkalian 4 dari 1 sampai 10 |
-| -3 | Tabel perkalian -3 dari 1 sampai 10 |
+| -3| Tabel perkalian -3 dari 1 sampai 10 |
 
 ### Latihan 2 - Jumlah Bilangan
 
